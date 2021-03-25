@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @freire45
+- 👋 Oi Eu sou o Erick Leite Freire @freire45
+- Sou Graduado em Gestão em Tecnologia da Informação e possuo Especialização em Engenharia de Qualidade de Software.
 - 👀 Eu adoro desenvolvimento web e de games, as vezes também crio sistema desktop com Java.
 - 🌱 Eu estou em constante aprendizado nas tecnologias de desenvolvimento web com Java.
 - 💞️ Eu estou procurando projetos para participar em Java.
