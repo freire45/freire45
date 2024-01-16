@@ -3,7 +3,13 @@
 - 👀 Eu adoro desenvolvimento web e de games, as vezes também crio sistema desktop com Java.
 - 🌱 Eu estou em constante aprendizado nas tecnologias de desenvolvimento web com Java.
 - 💞️ Eu estou procurando projetos para participar em Java.
-- 📫 Você pode encontrar meus contatos, portifólio e outras informações diretamente no meu site. https://www.erickfreire.com.br
+- 📫 Você pode encontrar meus contatos, portifólio e outras informações diretamente nos meus sites.
+- <br> https://www.erickfreire.com.br
+- <br> https://www.contosdemine.com.br
+- <br> https://www.aprendartes.com.br
+- <br> https://www.escoladoautodidata.com.br
+- <br> https://www.analisedegames.com.br
+- <br> https://wwww.asmrprogrammer.com.br
 <br><br>
 <div>
   <a href="https://github.com/freire45">
