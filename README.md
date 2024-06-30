@@ -9,7 +9,8 @@
 -  https://www.aprendartes.com.br
 -  https://www.escoladoautodidata.com.br
 -  https://www.analisedegames.com.br
--  https://wwww.asmrprogrammer.com.br
+-  https://www.asmrprogrammer.com.br
+-  https://www.matematiquei.com.br
 <br><br>
 <div>
   <a href="https://github.com/freire45">
