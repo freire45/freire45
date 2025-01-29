@@ -11,6 +11,9 @@
 -  https://www.analisedegames.com.br
 -  https://www.asmrprogrammer.com.br
 -  https://www.matematiquei.com.br
+-  https://www.maionesegames.com.br
+-  https://www.mathemaplay.com.br
+-  https://www.joguinhoseducacionais.com.br
 <br><br>
 <div>
   <a href="https://github.com/freire45">
